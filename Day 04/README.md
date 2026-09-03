@@ -90,8 +90,6 @@ The transformed dimension and fact tables are saved as CSV files for further use
 - Pandas
 - Google Colab
 - Jupyter Notebook
-- Git
-- GitHub
 
 ## Project Structure
 
